@@ -1,2 +1,2 @@
 # PythonExercies
-A set of exercies for testing python some python abilities with and their respective resolutions.
+A set of exercies for testing some python abilities with their respective resolutions. This exerces normally appears in webs like HackerRank.
